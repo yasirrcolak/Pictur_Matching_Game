@@ -1,0 +1,13 @@
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\bin\Debug\Picture_Matching_Game.exe.config
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\bin\Debug\Picture_Matching_Game.exe
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\bin\Debug\Picture_Matching_Game.pdb
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.HighScoresPage.resources
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.Properties.Resources.resources
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.WelcomePage.resources
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.exe
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.pdb
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.GameInformationsPage.resources
+C:\Users\muham\source\repos\Picture_Matching_Game\Picture_Matching_Game\obj\Debug\Picture_Matching_Game.GamePage.resources
